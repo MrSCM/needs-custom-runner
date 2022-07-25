@@ -1,2 +1,2 @@
 # needs-custom-runner
-Cloud Guru
+Cloud Guru training
